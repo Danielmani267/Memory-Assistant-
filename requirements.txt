@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pillow
+numpy
+requests
+twilio
+python-multipart
+gtts
+opencv-python-headless
+deepface
+tf-keras
